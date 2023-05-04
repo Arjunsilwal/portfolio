@@ -1,0 +1,15 @@
+.navContainer {
+	list-style-type: none;
+	padding: 5px;
+	background-color: rgb(184, 181, 177);
+	color: white;
+}
+.navList {
+	list-style-type: none;
+	display: flex;
+	justify-content: flex-end;
+	gap: 3rem;
+}
+.listItem {
+	cursor: pointer;
+}
